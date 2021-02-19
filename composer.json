@@ -1,0 +1,19 @@
+{
+    "name": "enesekinci/laravel-route-auth",
+    "description": "route-based authentication",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enesekinci",
+            "email": "enes.eknc.96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ENESEKINCI\\RouteAuth\\": "src/"
+        }
+    }
+}
